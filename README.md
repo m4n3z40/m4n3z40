@@ -21,6 +21,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [See, Think, Do & Care — A Content Focused Business Framework](https://medium.com/hurb-labs/see-think-do-care-a-content-focused-business-framework-783fc775da8e?source=rss-cb13593fe232------2)
+- [The Problem with Webpack and Why It Is (Kind of) Our Fault](https://medium.com/hurb-labs/the-problem-with-webpack-8a025268a761?source=rss-cb13593fe232------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
