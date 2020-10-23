@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m4n3z40&label=Profile%20views&color=0e75b6&style=flat" alt="m4n3z40" /> </p>
 
-- 🔭 I’m currently a Lead Product Manager at [Hurb.com](https://www.hurb.com)
+- 🔭  I’m currently a Lead Product Manager at [Hurb.com](https://www.hurb.com)
 
-- 🌱 I’m currently learning **Product Management, ML &. AI**
+- 🌱  I’m currently learning **Product Management, ML &. AI**
 
-- 👨‍💻 All of my projects are available at [https://www.beanimus.com](https://www.beanimus.com)
+- 👨‍💻  All of my projects are available at [https://www.beanimus.com](https://www.beanimus.com)
 
-- 📝 I regulary write articles on [https://medium.com/@allanbaptista](https://medium.com/@allanbaptista)
+- 📝  I regulary write articles on [https://medium.com/@allanbaptista](https://medium.com/@allanbaptista)
 
-- 💬 Ask me about: **Javascript, Node.js, React, Funcional Programming, Software Architecture, Product Management & Leadership**
+- 💬  Ask me about: **Javascript, Node.js, React, Funcional Programming, Software Architecture, Product Management & Leadership**
 
-- 📫 How to reach me: [allan@beanimus.com](mailto:allan@beanimus.com)
+- 📫  How to reach me: [allan@beanimus.com](mailto:allan@beanimus.com)
 
-- 📄 Know about my experiences at [https://www.linkedin.com/in/allanbaptista](https://www.linkedin.com/in/allanbaptista)
+- 📄  Know about my experiences at [https://www.linkedin.com/in/allanbaptista](https://www.linkedin.com/in/allanbaptista)
 
-- ⚡ Fun fact: **Psychology & neuroscience are some of my favorite topics to learn and talk about.**
+- ⚡  Fun fact: **Psychology & neuroscience are some of my favorite topics to learn and talk about.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
